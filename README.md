@@ -1,6 +1,7 @@
 # house-prices-prediction
 
 ## TO DO
+- add documentation
 - convert all matplotlib plots to plotly
 - try out more base models
 - make kaggle submission
