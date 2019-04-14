@@ -4,6 +4,7 @@ To view the notebook with interactive plots, click on the `Open in Colab` button
 https://nbviewer.jupyter.org/github/MichaelAshton/house-prices-prediction/blob/master/housing_price_prediction.ipynb
 
 ## TO DO
+- combine train and test sets prior to EDA
 - add documentation
 - convert all matplotlib plots to plotly
 - try out more base models
