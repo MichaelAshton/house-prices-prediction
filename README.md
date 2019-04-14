@@ -7,5 +7,4 @@ https://nbviewer.jupyter.org/github/MichaelAshton/house-prices-prediction/blob/m
 - add more documentation
 - convert all matplotlib plots to plotly
 - try out stacked models
-- make kaggle submission
 - improve results e.g through hyperparameter search, more feature engineering
